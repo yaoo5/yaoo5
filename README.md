@@ -4,7 +4,7 @@
 - 📫 我的博客地址：https://yaoo5.github.io
 - 🌹 如果你也想搭建自己的博客，可以参考我的文章：[如何搭建个人博客：Vitepress + Github Pages](https://yaoo5.github.io/tech/blog-vitepress-github.html)
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/yaoo5/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoo5)](https://github.com/yaoo5/github-readme-stats)
 
