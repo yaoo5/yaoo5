@@ -2,7 +2,7 @@
 
 - 👀 全干工程师，能够独自完成项目从搭建到上线
   - 前端: Vue、Typescript
-  - Node.js：Node.js、MySQL、Redis、Linux、Nginx
+  - 后端：Node.js、MySQL、Redis、Linux、Nginx
 - 🌱 我正在学习：Java、Nuxt.js、Tailwindcss
 - 📫 我的博客地址：https://yaoo5.github.io
 - 🌹 如果你想搭建自己的博客，可参考[如何搭建个人博客：Vitepress + Github Pages](https://yaoo5.github.io/tech/blog-vitepress-github.html)
