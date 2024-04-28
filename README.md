@@ -6,9 +6,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/yaoo5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoo5)](https://github.com/yaoo5/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/yaoo5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaoo5&layout=compact)](https://github.com/yaoo5/github-readme-stats)
 
 ![yaoo5's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoo5&show_icons=true&theme=tokyonight)
 
