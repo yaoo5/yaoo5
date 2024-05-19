@@ -4,6 +4,7 @@
   - 前端: Vue、Typescript
   - 后端：Node.js、MySQL、Redis、Linux、Nginx
 - 🌱 我正在学习：Java、Nuxt.js、Tailwindcss
+  - [Spring boot 教程](http://tengj.top/2017/04/24/springboot0/)
 - 📫 我的博客地址：https://yaoo5.github.io
 - 🌹 如果你想搭建自己的博客，可参考[如何搭建个人博客：Vitepress + Github Pages](https://yaoo5.github.io/tech/blog-vitepress-github.html)
 - [优秀模板仓库](https://github.com/kautukkundan/Awesome-Profile-README-templates)
