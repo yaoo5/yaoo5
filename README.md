@@ -2,7 +2,9 @@
 
 - 职业经历
   - 2018.7 ~ 2020.7: 前端开发工程师，X公司
+    - Vue、Webpack、ElementUI
   - 2020.7 ~ 2025.7: 全栈开发工程师，Y公司
+    - 熟悉Vue、Vite等
     - 熟悉Node.js（Koa/Egg.js）、MySQL、Redis、Linux、Docker、Nginx，有过丰富的开发经验。
   - 2025.7 ~ 至今：提示词工程师，Y公司
 - 📫 我的博客地址：https://yaoo5.github.io
