@@ -1,10 +1,10 @@
 # 👋 Hi, I’m yaoo5
 
-- 👀 全干工程师，能够独自完成项目从搭建到上线
-  - 前端: Vue、Typescript
-  - 后端：Node.js、MySQL、Redis、Linux、Nginx
-- 🌱 我正在学习：Java、Nuxt.js、Tailwindcss
-  - [Spring boot 教程](http://tengj.top/2017/04/24/springboot0/)
+- 职业经历
+  - 2018.7 ~ 2020.7: 前端开发工程师，X公司
+  - 2020.7 ~ 2025.7: 全栈开发工程师，Y公司
+    熟悉Node.js（Koa/Egg.js）、MySQL、Redis、Linux、Docker、Nginx，有过丰富的开发经验。
+  - 2025.7 ~ 至今：提示词工程师，Y公司
 - 📫 我的博客地址：https://yaoo5.github.io
 - 🌹 如果你想搭建自己的博客，可参考[如何搭建个人博客：Vitepress + Github Pages](https://yaoo5.github.io/tech/blog-vitepress-github.html)
 - [优秀模板仓库](https://github.com/kautukkundan/Awesome-Profile-README-templates)
