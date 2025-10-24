@@ -2,7 +2,8 @@
 
 ## 🍁 职业经历
 **👉 2025.7 ~ 至今 - AI应用工程师，Y公司**
-  - 了解python、数仓等技术。
+  - 熟悉python、hive、提示词、Dify使用
+  - 了解MCP，能够搭建一个兼备stdio和streamableHttp的MCP
     
 **👉 2020.7 ~ 2025.7 - 全栈开发工程师，Y公司**
   - 熟悉Vue、Vite等
